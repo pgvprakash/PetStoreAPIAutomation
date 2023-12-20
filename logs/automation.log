@@ -1,0 +1,40 @@
+16:35:00.894 [main] INFO  api.test.UserTests - ************ Creating User **********
+16:35:03.824 [main] INFO  api.test.UserTests - ************ User is Created**********
+16:35:03.837 [main] INFO  api.test.UserTests - ************ Getting User Info **********
+16:35:05.033 [main] INFO  api.test.UserTests - ************ User Info is received **********
+16:35:05.037 [main] INFO  api.test.UserTests - ************ Updating User By Name **********
+16:35:07.560 [main] INFO  api.test.UserTests - ************ Updating User By Name Successful **********
+16:35:07.567 [main] INFO  api.test.UserTests - ************ Deleting User By Name **********
+16:35:08.894 [main] INFO  api.test.UserTests - ************ Deleted User By Name Success **********
+17:57:29.056 [main] INFO  api.test.UserTestsWithProperties - ************ Creating User **********
+17:57:31.373 [main] INFO  api.test.UserTestsWithProperties - ************ User is Created**********
+17:57:31.386 [main] INFO  api.test.UserTestsWithProperties - ************ Getting User Info **********
+17:57:32.534 [main] INFO  api.test.UserTestsWithProperties - ************ User Info is received **********
+17:57:32.536 [main] INFO  api.test.UserTestsWithProperties - ************ Updating User By Name **********
+17:57:34.833 [main] INFO  api.test.UserTestsWithProperties - ************ Updating User By Name Successful **********
+17:57:34.838 [main] INFO  api.test.UserTestsWithProperties - ************ Deleting User By Name **********
+17:57:35.953 [main] INFO  api.test.UserTestsWithProperties - ************ Deleted User By Name Success **********
+18:08:06.485 [main] INFO  api.test.UserTests - ************ Creating User **********
+18:08:07.673 [main] INFO  api.test.UserTests - ************ User is Created**********
+18:08:07.674 [main] INFO  api.test.UserTests - ************ Getting User Info **********
+18:08:08.823 [main] INFO  api.test.UserTests - ************ User Info is received **********
+18:08:08.824 [main] INFO  api.test.UserTests - ************ Updating User By Name **********
+18:08:11.125 [main] INFO  api.test.UserTests - ************ Updating User By Name Successful **********
+18:08:11.126 [main] INFO  api.test.UserTests - ************ Deleting User By Name **********
+18:08:12.339 [main] INFO  api.test.UserTests - ************ Deleted User By Name Success **********
+18:11:30.193 [main] INFO  api.test.UserTestsWithProperties - ************ Creating User **********
+18:11:32.423 [main] INFO  api.test.UserTestsWithProperties - ************ User is Created**********
+18:11:32.432 [main] INFO  api.test.UserTestsWithProperties - ************ Getting User Info **********
+18:11:33.645 [main] INFO  api.test.UserTestsWithProperties - ************ User Info is received **********
+18:11:33.649 [main] INFO  api.test.UserTestsWithProperties - ************ Updating User By Name **********
+18:11:38.646 [main] INFO  api.test.UserTestsWithProperties - ************ Updating User By Name Successful **********
+18:11:38.649 [main] INFO  api.test.UserTestsWithProperties - ************ Deleting User By Name **********
+18:11:39.818 [main] INFO  api.test.UserTestsWithProperties - ************ Deleted User By Name Success **********
+18:28:08.257 [main] INFO  api.test.UserTestsWithProperties - ************ Creating User **********
+18:28:10.704 [main] INFO  api.test.UserTestsWithProperties - ************ User is Created**********
+18:28:10.715 [main] INFO  api.test.UserTestsWithProperties - ************ Getting User Info **********
+18:28:11.947 [main] INFO  api.test.UserTestsWithProperties - ************ User Info is received **********
+18:28:11.949 [main] INFO  api.test.UserTestsWithProperties - ************ Updating User By Name **********
+18:28:14.164 [main] INFO  api.test.UserTestsWithProperties - ************ Updating User By Name Successful **********
+18:28:14.168 [main] INFO  api.test.UserTestsWithProperties - ************ Deleting User By Name **********
+18:28:15.418 [main] INFO  api.test.UserTestsWithProperties - ************ Deleted User By Name Success **********
